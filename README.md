@@ -4,5 +4,8 @@
 ### How to use
 * bigshot (command to run game)
 * After run command you will find the desktop entry in the app menu
-### Building
+# Building
+### Compile
 * Only run make
+### Installing
+* sudo make install
